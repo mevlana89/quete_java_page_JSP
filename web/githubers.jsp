@@ -10,7 +10,7 @@
   To change this template use File | Settings | File Templates.
 --%>
 <jsp:include page="header.jsp"/>
-<title>Github Tracker</title>
+<title>Github _ Tracker</title>
 </head>
 <body>
 <h1>githuber by JSTL</h1>
